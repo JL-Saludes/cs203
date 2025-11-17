@@ -55,4 +55,4 @@ def check_name(name):
 
 
 def regex(string):
-    return f"^[Hh]ello, {re.escape(string)}\n$"
+    return f"^[Hh]ello, {re.escape(string)}\n$" 
